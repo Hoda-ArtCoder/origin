@@ -1,8 +1,8 @@
 # Tell me how to remove them locally and remotely.
 ### To delete a remote branch :
-```git push origin branch_name```
+      git push origin branch_name
 ### To delete a local branch :
-```git branch -d branch_name ```
+      git branch -d branch_name 
 
 # Tell me how to checkout another branch without commit changes
       git stash
