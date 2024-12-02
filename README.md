@@ -3,8 +3,8 @@
    To delete a local branch : git branch -d branch_name 
 
 # Tell me how to checkout another branch without commit changes
-  git stash
-  git checkout branchname
+   git stash
+   git checkout branchname
 
   
 # Tell me how to list tags.
