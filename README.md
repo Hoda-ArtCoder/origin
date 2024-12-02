@@ -1,11 +1,10 @@
 # Tell me how to remove them locally and remotely.
-   To delete a remote branch : git push origin :branch_name
-   To delete a local branch : git branch -d branch_name 
+      To delete a remote branch : git push origin :branch_name
+      To delete a local branch : git branch -d branch_name 
 
 # Tell me how to checkout another branch without commit changes
-   git stash
-   git checkout branchname
-
+      git stash
+      git checkout branchname
   
 # Tell me how to list tags.
       To List Tags : git tag
